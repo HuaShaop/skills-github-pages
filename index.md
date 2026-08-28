@@ -1,56 +1,49 @@
 ---
-title: Welcome to Cedric's blog!
+layout: default
+title: 主页
+permalink: /
+---
 
-# 👋 你好，我是 Cedric
+# 👋 您好，我是 [您的姓名]
 
-[![GitHub followers](https://img.shields.io/github/followers/你的用户名?style=social)](https://github.com/你的用户名)
-[![Twitter Follow](https://img.shields.io/twitter/follow/你的推特?style=social)](https://twitter.com/你的推特)
-
-> 一句话介绍自己，例如：全栈开发者 · 开源爱好者 · 技术写作者
+欢迎来到我的个人博客！这里是我记录技术思考、生活感悟和项目实践的地方。
 
 ---
 
-## 🔭 我正在做
+## 🧑‍💻 关于我
 
-- 🌱 目前正在学习 **[某项技术/框架]**
-- 👯 正在寻找合作 **[某个项目类型]**
-- 💬 我可以聊 **[你擅长的领域]**
-- 📫 怎么联系我：**[你的邮箱]** 或 **[社交链接]**
-
----
-
-## 📚 最近博客文章
-
-<!-- 如果你使用 GitHub Actions 自动更新，可以在这里插入动态列表 -->
-- [文章标题 1](链接) - 2026-08-20
-- [文章标题 2](链接) - 2026-08-15
-- [文章标题 3](链接) - 2026-08-10
+- **职业**：软件工程师 / 开发者 / [您的职位]
+- **兴趣领域**：Web 开发、开源、人工智能、摄影、阅读
+- **座右铭**：学无止境，行以致远。
 
 ---
 
-## 🛠️ 技术栈
+## ✨ 近期动态
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-（按需添加更多）
+- 🔭 正在开发：[项目名称或技术方向]
+- 🌱 正在学习：[新技能或框架]
+- 💬 想交流的话题：[技术/兴趣话题]
+- 📫 联系方式：[邮箱] 或 [社交账号]
 
 ---
 
-## 📈 GitHub 统计
+## 📝 博客内容
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+本站主要分享：
+- 编程经验与教程
+- 技术翻译与读书笔记
+- 生活随笔与摄影作品
+
+所有内容均为原创，如需转载请联系我。
 
 ---
 
-## 📝 我的开发历程
+## 🌐 链接
 
-项目开发日志会记录在 **[DEVELOPMENT_LOG.md](DEVELOPMENT_LOG.md)**，每次工作都会追加记录，保持完整历史。
+- [GitHub](https://github.com/yourusername)
+- [Twitter/X](https://twitter.com/yourusername)
+- [LinkedIn](https://linkedin.com/in/yourusername)
 
 ---
 
-> 💡 这个 README 会持续更新，欢迎 Star ⭐ 或 Fork！
----
-
+> “保持好奇，保持谦逊。” —— 感谢您的访问！
