@@ -1,5 +1,5 @@
 ---
-title: "NEW-DAY-TO-BLOG"
+title: "new-day-to-blog"
 date: 2026-08-28
 ---
 #第一篇测试博客
